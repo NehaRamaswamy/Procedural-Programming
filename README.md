@@ -4,14 +4,9 @@ This repository is a comprehensive collection of Python programs and Jupyter not
 
 Whether you're a student, self-learner, or educator, these notebooks provide hands-on examples to build skills in loops, conditionals, and problem-solving. All code is written in Python and can be run in Jupyter environments.
 
-## Branches:
-- **Main Branch**: Focuses on control flow and program examples.
-- **Second Branch** (e.g., `dev` or similar): Includes expanded pattern sections and hollow variations.
-- Switch branches with `git checkout <branch-name>` to explore differences.
-
 ## Repository Structure
 
-The repository is divided into key sections: control flow basics, number patterns, asterisk and hollow patterns, and miscellaneous programs. Below is an overview of the contents.
+The repository is divided into key sections: control flow basics and miscellaneous programs. Below is an overview of the contents.
 
 ### Control Flow Structures
 
@@ -27,22 +22,6 @@ This section covers essential looping and conditional constructs with practical 
 
 - **If Statements** (`If_statement` folder):
   - Notebooks explaining conditional execution with `if`, `elif`, and `else`.
-
-### Number Patterns
-
-A dedicated series of notebooks for generating numerical patterns using loops. These are excellent for practicing nested loops and arithmetic operations. Patterns range from simple sequences to complex designs.
-
-- `Patterns_1.ipynb` to `Patterns_20.ipynb`: Progressive exercises creating various numerical structures, such as triangles, pyramids, and symmetric patterns.
-
-### Asterisk and Hollow Patterns
-
-These folders focus on printing geometric shapes using asterisks (`*`). Hollow patterns add a challenge by printing only outlines.
-
-- **Asterisk Patterns** (`Asteric_Patterns` folder):
-  - Basic programs to create solid shapes like triangles, squares, diamonds, and more using asterisks.
-
-- **Hollow Patterns** (`Hallow_Patterns` folder):
-  - Advanced variations where only the borders of shapes are printed, emphasizing loop control and spacing.
 
 ### Programs
 
@@ -75,6 +54,5 @@ And more programs for additional challenges!
 ## Learning Outcomes
 
 - Master loops (`for`, `while`, nested) and conditionals (`if-else`).
-- Understand pattern generation for visual output.
 - Solve algorithmic problems like primality, palindromes, and factorials.
 - Practice debugging and optimization in Python.
